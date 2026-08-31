@@ -1,1 +1,30 @@
-{}
+{
+  "Bending Spoons | Spring Week 2027": {
+    "type": "Spring Week",
+    "company": "Bending Spoons",
+    "programme": "Spring Week 2027",
+    "opening_date": "25 Aug 26",
+    "link": "https://app.the-trackr.com/company/bending-spoons"
+  },
+  "Jane Street | FOCUS / FTTP": {
+    "type": "Spring Week",
+    "company": "Jane Street",
+    "programme": "FOCUS / FTTP",
+    "opening_date": "21 Aug 26",
+    "link": "https://app.the-trackr.com/company/jane-street"
+  },
+  "Marshall Wace | Technology Intern - Summer 2027": {
+    "type": "Spring Week",
+    "company": "Marshall Wace",
+    "programme": "Technology Intern - Summer 2027",
+    "opening_date": "07 Jul 26",
+    "link": "https://app.the-trackr.com/company/marshall-wace"
+  },
+  "BlackRock | 2027 Spring Insight Event": {
+    "type": "Spring Week",
+    "company": "BlackRock",
+    "programme": "2027 Spring Insight Event",
+    "opening_date": "30 Jun 26",
+    "link": "https://app.the-trackr.com/company/blackrock"
+  }
+}

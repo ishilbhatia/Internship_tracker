@@ -7,9 +7,21 @@ from email.message import EmailMessage
 from datetime import datetime
 
 
-URL = "https://app.the-trackr.com/uk-tech/summer-internships"
+# --------------------------------------------------
+# CONFIG
+# --------------------------------------------------
 
-STATE_FILE = "internships_seen.json"
+TRACKERS = {
+    "Summer Internship": {
+        "url": "https://app.the-trackr.com/uk-tech/summer-internships",
+        "state_file": "internships_seen.json",
+    },
+    "Spring Week": {
+        "url": "https://app.the-trackr.com/uk-tech/spring-weeks",
+        "state_file": "spring_weeks_seen.json",
+    },
+}
+
 
 EMAIL_ADDRESS = os.environ["TRACKR_EMAIL"]
 EMAIL_APP_PASSWORD = os.environ["TRACKR_EMAIL_PASSWORD"]
@@ -19,141 +31,179 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 
 
-def get_internships():
+# --------------------------------------------------
+# SCRAPE TRACKR PAGE
+# --------------------------------------------------
 
-    internships = {}
+def get_opportunities(page, opportunity_type, url):
 
-    with sync_playwright() as p:
+    opportunities = {}
 
-        browser = p.chromium.launch(headless=True)
+    print(f"\nOpening {opportunity_type} tracker...")
 
-        page = browser.new_page()
+    page.goto(
+        url,
+        wait_until="networkidle",
+        timeout=60000
+    )
 
-        print("Opening Trackr...")
+    # Give the application a little extra time
+    # to render the table.
+    page.wait_for_timeout(5000)
 
-        page.goto(
-            URL,
-            wait_until="networkidle",
-            timeout=60000
-        )
+    rows = page.locator("tr")
 
-        # Give the application a little extra time
-        # to render the table.
-        page.wait_for_timeout(5000)
+    print(
+        f"Found {rows.count()} table rows "
+        f"on {opportunity_type} page."
+    )
 
-        rows = page.locator("tr")
+    for i in range(rows.count()):
 
-        print(f"Found {rows.count()} table rows.")
+        row = rows.nth(i)
 
-        for i in range(rows.count()):
+        cells = row.locator("td")
 
-            row = rows.nth(i)
+        if cells.count() < 4:
+            continue
 
-            cells = row.locator("td")
+        company = cells.nth(1).inner_text().strip()
+        programme = cells.nth(2).inner_text().strip()
+        opening_date = cells.nth(3).inner_text().strip()
 
-            if cells.count() < 4:
-                continue
+        if not company or not programme:
+            continue
 
-            company = cells.nth(1).inner_text().strip()
-            programme = cells.nth(2).inner_text().strip()
-            opening_date = cells.nth(3).inner_text().strip()
+        # Ignore opportunities that have not opened yet.
+        if not opening_date:
+            continue
 
-            if not company or not programme:
-                continue
+        links = row.locator("a")
 
-            # Ignore internships that have not opened.
-            if not opening_date:
-                continue
+        link = url
 
-            links = row.locator("a")
+        if links.count() > 0:
 
-            if links.count() > 0:
+            href = links.first.get_attribute("href")
 
-                link = links.first.get_attribute("href")
+            if href:
 
-                if link:
-
-                    if link.startswith("/"):
-                        link = "https://app.the-trackr.com" + link
-
+                if href.startswith("/"):
+                    link = "https://app.the-trackr.com" + href
                 else:
-                    link = URL
+                    link = href
 
-            else:
-                link = URL
+        key = f"{company} | {programme}"
 
-            key = f"{company} | {programme}"
+        opportunities[key] = {
+            "type": opportunity_type,
+            "company": company,
+            "programme": programme,
+            "opening_date": opening_date,
+            "link": link
+        }
 
-            internships[key] = {
-                "company": company,
-                "programme": programme,
-                "opening_date": opening_date,
-                "link": link
-            }
-
-        browser.close()
-
-    return internships
+    return opportunities
 
 
-def load_seen():
+# --------------------------------------------------
+# LOAD / SAVE STATE
+# --------------------------------------------------
 
-    if not os.path.exists(STATE_FILE):
+def load_seen(state_file):
+
+    if not os.path.exists(state_file):
         return {}
 
     try:
-        with open(STATE_FILE, "r") as f:
+
+        with open(state_file, "r") as f:
             return json.load(f)
 
-    except Exception:
+    except Exception as error:
+
+        print(
+            f"Could not read {state_file}: {error}"
+        )
+
         return {}
 
 
-def save_seen(internships):
+def save_seen(opportunities, state_file):
 
-    with open(STATE_FILE, "w") as f:
+    with open(state_file, "w") as f:
+
         json.dump(
-            internships,
+            opportunities,
             f,
             indent=2
         )
 
 
-def send_email(new_internships):
+# --------------------------------------------------
+# EMAIL
+# --------------------------------------------------
+
+def send_email(new_opportunities):
 
     msg = EmailMessage()
 
     msg["From"] = EMAIL_ADDRESS
     msg["To"] = EMAIL_TO
 
-    if len(new_internships) == 1:
+    if len(new_opportunities) == 1:
 
-        internship = new_internships[0]
+        opportunity = new_opportunities[0]
 
         msg["Subject"] = (
-            f"Internship opened: "
-            f"{internship['company']}"
+            f"{opportunity['type']} opened: "
+            f"{opportunity['company']}"
         )
 
     else:
 
+        spring_count = sum(
+            1
+            for opportunity in new_opportunities
+            if opportunity["type"] == "Spring Week"
+        )
+
+        internship_count = sum(
+            1
+            for opportunity in new_opportunities
+            if opportunity["type"] == "Summer Internship"
+        )
+
+        subject_parts = []
+
+        if spring_count:
+            subject_parts.append(
+                f"{spring_count} Spring Week"
+            )
+
+        if internship_count:
+            subject_parts.append(
+                f"{internship_count} internship"
+            )
+
         msg["Subject"] = (
-            f"{len(new_internships)} "
-            f"new internships opened"
+            "New opportunities opened: "
+            + ", ".join(subject_parts)
         )
 
     lines = [
-        "New internship application(s) detected on Trackr:",
+        "New opportunity/opportunities detected on Trackr:",
         ""
     ]
 
-    for internship in new_internships:
+    for opportunity in new_opportunities:
 
         lines.extend([
-            f"Company: {internship['company']}",
-            f"Programme: {internship['programme']}",
-            f"Opening date: {internship['opening_date']}",
-            f"Link: {internship['link']}",
+            f"TYPE: {opportunity['type']}",
+            f"Company: {opportunity['company']}",
+            f"Programme: {opportunity['programme']}",
+            f"Opening date: {opportunity['opening_date']}",
+            f"Link: {opportunity['link']}",
             "",
             "----------------------------",
             ""
@@ -163,7 +213,7 @@ def send_email(new_internships):
         f"Detected at: "
         f"{datetime.now().strftime('%d %b %Y %H:%M:%S')}",
         "",
-        URL
+        "Trackr UK Tech Opportunities Monitor"
     ])
 
     msg.set_content("\n".join(lines))
@@ -182,62 +232,131 @@ def send_email(new_internships):
 
     print(
         f"Email sent for "
-        f"{len(new_internships)} internship(s)."
+        f"{len(new_opportunities)} "
+        f"new opportunity/opportunities."
     )
 
+
+# --------------------------------------------------
+# CHECK ALL TRACKERS
+# --------------------------------------------------
 
 def check_tracker():
 
+    print("=" * 60)
     print("Checking Trackr...")
+    print("=" * 60)
 
-    current = get_internships()
+    all_new_opportunities = []
 
-    print(
-        f"Found {len(current)} "
-        f"currently open internships."
-    )
+    with sync_playwright() as p:
 
-    seen = load_seen()
+        browser = p.chromium.launch(headless=True)
 
-    if not seen:
+        page = browser.new_page()
 
-        print("First run. Creating baseline.")
+        for opportunity_type, config in TRACKERS.items():
 
-        save_seen(current)
+            url = config["url"]
+            state_file = config["state_file"]
 
-        return
+            try:
 
-    new_internships = []
+                current = get_opportunities(
+                    page,
+                    opportunity_type,
+                    url
+                )
 
-    for key, internship in current.items():
+                print(
+                    f"Found {len(current)} currently open "
+                    f"{opportunity_type} opportunities."
+                )
 
-        if key not in seen:
+                seen = load_seen(state_file)
 
-            new_internships.append(internship)
+                if not seen:
 
-    if new_internships:
+                    print(
+                        f"First run for {opportunity_type}. "
+                        f"Creating baseline."
+                    )
 
-        print(
-            f"Found {len(new_internships)} "
-            f"new internship(s)."
+                    save_seen(
+                        current,
+                        state_file
+                    )
+
+                    continue
+
+                new_opportunities = []
+
+                for key, opportunity in current.items():
+
+                    if key not in seen:
+
+                        new_opportunities.append(
+                            opportunity
+                        )
+
+                if new_opportunities:
+
+                    print(
+                        f"Found {len(new_opportunities)} new "
+                        f"{opportunity_type} opportunity/opportunities."
+                    )
+
+                    for opportunity in new_opportunities:
+
+                        print(
+                            opportunity["company"],
+                            "-",
+                            opportunity["programme"]
+                        )
+
+                    all_new_opportunities.extend(
+                        new_opportunities
+                    )
+
+                else:
+
+                    print(
+                        f"No new {opportunity_type} "
+                        f"opportunities found."
+                    )
+
+                save_seen(
+                    current,
+                    state_file
+                )
+
+            except Exception as error:
+
+                print(
+                    f"ERROR checking {opportunity_type}: "
+                    f"{error}"
+                )
+
+        browser.close()
+
+    # Send ONE email containing everything newly detected
+    # across both trackers.
+    if all_new_opportunities:
+
+        send_email(
+            all_new_opportunities
         )
-
-        for internship in new_internships:
-
-            print(
-                internship["company"],
-                "-",
-                internship["programme"]
-            )
-
-        send_email(new_internships)
 
     else:
 
-        print("No new internships found.")
+        print("\nNo new opportunities detected.")
 
-    save_seen(current)
+    print("\nCheck complete.")
 
+
+# --------------------------------------------------
+# RUN
+# --------------------------------------------------
 
 if __name__ == "__main__":
     check_tracker()

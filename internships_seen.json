@@ -104,13 +104,6 @@
     "opening_date": "10 Aug 26",
     "link": "https://app.the-trackr.com/company/squarepoint-capital"
   },
-  "Samsara | Software Engineering Internship": {
-    "type": "Summer Internship",
-    "company": "Samsara",
-    "programme": "Software Engineering Internship",
-    "opening_date": "04 Aug 26",
-    "link": "https://app.the-trackr.com/company/samsara"
-  },
   "BTG Pactual | Summer Undergrad 2027": {
     "type": "Summer Internship",
     "company": "BTG Pactual",
@@ -180,6 +173,13 @@
     "programme": "Internship Programme 2027",
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
+  },
+  "Samsara | Software Engineering Internship": {
+    "type": "Summer Internship",
+    "company": "Samsara",
+    "programme": "Software Engineering Internship",
+    "opening_date": "04 Aug 26",
+    "link": "https://app.the-trackr.com/company/samsara"
   },
   "Quantbot Technologies | Data Trading Analyst Summer Internship - 2027": {
     "type": "Summer Internship",

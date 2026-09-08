@@ -69,13 +69,6 @@
     "opening_date": "31 Aug 26",
     "link": "https://app.the-trackr.com/company/stripe"
   },
-  "Capital One | Technology Summer Internship": {
-    "type": "Summer Internship",
-    "company": "Capital One",
-    "programme": "Technology Summer Internship",
-    "opening_date": "27 Aug 26",
-    "link": "https://app.the-trackr.com/company/capital-one"
-  },
   "BNY Mellon | 2027 Summer Internship Program": {
     "type": "Summer Internship",
     "company": "BNY Mellon",
@@ -187,6 +180,13 @@
     "programme": "Internship Programme 2027",
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
+  },
+  "Capital One | Technology Summer Internship": {
+    "type": "Summer Internship",
+    "company": "Capital One",
+    "programme": "Technology Summer Internship",
+    "opening_date": "27 Aug 26",
+    "link": "https://app.the-trackr.com/company/capital-one"
   },
   "Samsara | Software Engineering Internship": {
     "type": "Summer Internship",

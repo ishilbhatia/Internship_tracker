@@ -160,13 +160,6 @@
     "opening_date": "07 Jul 26",
     "link": "https://app.the-trackr.com/company/marshall-wace"
   },
-  "Tencent | Software Engineering Intern": {
-    "type": "Summer Internship",
-    "company": "Tencent",
-    "programme": "Software Engineering Intern",
-    "opening_date": "07 Jul 26",
-    "link": "https://app.the-trackr.com/company/tencent"
-  },
   "BlackRock | 2027 Summer Internship Program": {
     "type": "Summer Internship",
     "company": "BlackRock",
@@ -201,6 +194,13 @@
     "programme": "Software Engineering Internship",
     "opening_date": "04 Aug 26",
     "link": "https://app.the-trackr.com/company/samsara"
+  },
+  "Tencent | Software Engineering Intern": {
+    "type": "Summer Internship",
+    "company": "Tencent",
+    "programme": "Software Engineering Intern",
+    "opening_date": "07 Jul 26",
+    "link": "https://app.the-trackr.com/company/tencent"
   },
   "Oliver Wyman | Data & Analytics Summer Internship 2027": {
     "type": "Summer Internship",
@@ -369,6 +369,13 @@
     "programme": "Software Developer - Intern",
     "opening_date": "02 Jul 26",
     "link": "https://app.the-trackr.com/company/gsa-capital"
+  },
+  "Tencent | Cyber Security Intern": {
+    "type": "Summer Internship",
+    "company": "Tencent",
+    "programme": "Cyber Security Intern",
+    "opening_date": "09 Sep 26",
+    "link": "https://app.the-trackr.com/company/tencent"
   },
   "Qube RT | 2027 Internship - Security Engineering": {
     "type": "Summer Internship",

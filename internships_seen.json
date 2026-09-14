@@ -118,20 +118,6 @@
     "opening_date": "24 Aug 26",
     "link": "https://app.the-trackr.com/company/bny-mellon"
   },
-  "IBM | Intern Back-End Developer - Starting July 2027": {
-    "type": "Summer Internship",
-    "company": "IBM",
-    "programme": "Intern Back-End Developer - Starting July 2027",
-    "opening_date": "24 Aug 26",
-    "link": "https://app.the-trackr.com/company/ibm"
-  },
-  "BNP Paribas | 2027 Summer Internship - Technology": {
-    "type": "Summer Internship",
-    "company": "BNP Paribas",
-    "programme": "2027 Summer Internship - Technology",
-    "opening_date": "19 Aug 26",
-    "link": "https://app.the-trackr.com/company/bnp-paribas"
-  },
   "Goldman Sachs | 2027 Summer Analyst Programme": {
     "type": "Summer Internship",
     "company": "Goldman Sachs",
@@ -215,6 +201,20 @@
     "programme": "Technology Summer Internship",
     "opening_date": "27 Aug 26",
     "link": "https://app.the-trackr.com/company/capital-one"
+  },
+  "IBM | Intern Back-End Developer - Starting July 2027": {
+    "type": "Summer Internship",
+    "company": "IBM",
+    "programme": "Intern Back-End Developer - Starting July 2027",
+    "opening_date": "24 Aug 26",
+    "link": "https://app.the-trackr.com/company/ibm"
+  },
+  "BNP Paribas | 2027 Summer Internship - Technology": {
+    "type": "Summer Internship",
+    "company": "BNP Paribas",
+    "programme": "2027 Summer Internship - Technology",
+    "opening_date": "19 Aug 26",
+    "link": "https://app.the-trackr.com/company/bnp-paribas"
   },
   "Samsara | Software Engineering Internship": {
     "type": "Summer Internship",

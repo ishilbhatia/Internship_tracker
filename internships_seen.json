@@ -174,13 +174,6 @@
     "opening_date": "31 Jul 26",
     "link": "https://app.the-trackr.com/company/palantir"
   },
-  "Ciena | Software Engineering Intern": {
-    "type": "Summer Internship",
-    "company": "Ciena",
-    "programme": "Software Engineering Intern",
-    "opening_date": "22 Jul 26",
-    "link": "https://app.the-trackr.com/company/ciena"
-  },
   "Arctic Lake | Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "Arctic Lake",
@@ -229,6 +222,13 @@
     "programme": "Software Engineering Internship",
     "opening_date": "04 Aug 26",
     "link": "https://app.the-trackr.com/company/samsara"
+  },
+  "Ciena | Software Engineering Intern": {
+    "type": "Summer Internship",
+    "company": "Ciena",
+    "programme": "Software Engineering Intern",
+    "opening_date": "22 Jul 26",
+    "link": "https://app.the-trackr.com/company/ciena"
   },
   "Tencent | Software Engineering Intern": {
     "type": "Summer Internship",
@@ -293,19 +293,19 @@
     "opening_date": "23 Jul 26",
     "link": "https://app.the-trackr.com/company/g-research"
   },
-  "Castleton Commodities International | Data Science Machine Learning Internship (Summer 2027)": {
-    "type": "Summer Internship",
-    "company": "Castleton Commodities International",
-    "programme": "Data Science Machine Learning Internship (Summer 2027)",
-    "opening_date": "21 Jul 26",
-    "link": "https://app.the-trackr.com/company/castleton-commodities-international"
-  },
   "IMC Trading | Machine Learning Research Intern - Summer 2027": {
     "type": "Summer Internship",
     "company": "IMC Trading",
     "programme": "Machine Learning Research Intern - Summer 2027",
     "opening_date": "08 Jul 26",
     "link": "https://app.the-trackr.com/company/imc-trading"
+  },
+  "Castleton Commodities International | Data Science Machine Learning Internship (Summer 2027)": {
+    "type": "Summer Internship",
+    "company": "Castleton Commodities International",
+    "programme": "Data Science Machine Learning Internship (Summer 2027)",
+    "opening_date": "21 Jul 26",
+    "link": "https://app.the-trackr.com/company/castleton-commodities-international"
   },
   "Qube RT | 2027 Internship - Infrastructure Engineering": {
     "type": "Summer Internship",
@@ -377,13 +377,6 @@
     "opening_date": "31 Jul 26",
     "link": "https://app.the-trackr.com/company/imc-trading"
   },
-  "Castleton Commodities International | Software Engineer Internship (Summer 2027)": {
-    "type": "Summer Internship",
-    "company": "Castleton Commodities International",
-    "programme": "Software Engineer Internship (Summer 2027)",
-    "opening_date": "21 Jul 26",
-    "link": "https://app.the-trackr.com/company/castleton-commodities-international"
-  },
   "Virtu Financial | 2027 Internship - Software Engineer": {
     "type": "Summer Internship",
     "company": "Virtu Financial",
@@ -411,6 +404,13 @@
     "programme": "Software Developer - Intern",
     "opening_date": "02 Jul 26",
     "link": "https://app.the-trackr.com/company/gsa-capital"
+  },
+  "Castleton Commodities International | Software Engineer Internship (Summer 2027)": {
+    "type": "Summer Internship",
+    "company": "Castleton Commodities International",
+    "programme": "Software Engineer Internship (Summer 2027)",
+    "opening_date": "21 Jul 26",
+    "link": "https://app.the-trackr.com/company/castleton-commodities-international"
   },
   "TTP | Summer Internship - Software Engineering Consultant - 2027": {
     "type": "Summer Internship",

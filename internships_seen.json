@@ -97,13 +97,6 @@
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/barclays"
   },
-  "Tradeweb | Summer 2027 Developer Internship": {
-    "type": "Summer Internship",
-    "company": "Tradeweb",
-    "programme": "Summer 2027 Developer Internship",
-    "opening_date": "09 Sep 26",
-    "link": "https://app.the-trackr.com/company/tradeweb"
-  },
   "Anduril | 2027 Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "Anduril",
@@ -257,6 +250,13 @@
     "programme": "Internship Programme 2027",
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
+  },
+  "Tradeweb | Summer 2027 Developer Internship": {
+    "type": "Summer Internship",
+    "company": "Tradeweb",
+    "programme": "Summer 2027 Developer Internship",
+    "opening_date": "09 Sep 26",
+    "link": "https://app.the-trackr.com/company/tradeweb"
   },
   "Capital One | Technology Summer Internship": {
     "type": "Summer Internship",

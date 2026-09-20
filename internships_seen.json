@@ -6,13 +6,6 @@
     "opening_date": "15 Sep 26",
     "link": "https://app.the-trackr.com/company/shell"
   },
-  "Bending Spoons | Software engineer, summer intern UK": {
-    "type": "Summer Internship",
-    "company": "Bending Spoons",
-    "programme": "Software engineer, summer intern UK",
-    "opening_date": "25 Aug 26",
-    "link": "https://app.the-trackr.com/company/bending-spoons"
-  },
   "D.E. Shaw | Systems Engineering Intern - Summer 2027": {
     "type": "Summer Internship",
     "company": "D.E. Shaw",
@@ -285,6 +278,13 @@
     "programme": "Technology Summer Internship",
     "opening_date": "27 Aug 26",
     "link": "https://app.the-trackr.com/company/capital-one"
+  },
+  "Bending Spoons | Software engineer, summer intern UK": {
+    "type": "Summer Internship",
+    "company": "Bending Spoons",
+    "programme": "Software engineer, summer intern UK",
+    "opening_date": "25 Aug 26",
+    "link": "https://app.the-trackr.com/company/bending-spoons"
   },
   "IBM | Intern Back-End Developer - Starting July 2027": {
     "type": "Summer Internship",

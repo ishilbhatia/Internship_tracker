@@ -321,13 +321,6 @@
     "opening_date": "07 Jul 26",
     "link": "https://app.the-trackr.com/company/marshall-wace"
   },
-  "BlackRock | 2027 Summer Internship Program": {
-    "type": "Summer Internship",
-    "company": "BlackRock",
-    "programme": "2027 Summer Internship Program",
-    "opening_date": "30 Jun 26",
-    "link": "https://app.the-trackr.com/company/blackrock"
-  },
   "GIC | GIC Internship Programme 2027": {
     "type": "Summer Internship",
     "company": "GIC",
@@ -390,6 +383,13 @@
     "programme": "Software Engineering Intern",
     "opening_date": "07 Jul 26",
     "link": "https://app.the-trackr.com/company/tencent"
+  },
+  "BlackRock | 2027 Summer Internship Program": {
+    "type": "Summer Internship",
+    "company": "BlackRock",
+    "programme": "2027 Summer Internship Program",
+    "opening_date": "30 Jun 26",
+    "link": "https://app.the-trackr.com/company/blackrock"
   },
   "TikTok | Data Analyst Intern - 2027 Start": {
     "type": "Summer Internship",

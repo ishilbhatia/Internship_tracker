@@ -580,13 +580,6 @@
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/tradeweb"
   },
-  "Bain & Company | AI Engineering, Intern": {
-    "type": "Summer Internship",
-    "company": "Bain & Company",
-    "programme": "AI Engineering, Intern",
-    "opening_date": "31 Aug 26",
-    "link": "https://app.the-trackr.com/company/bain-company"
-  },
   "Jane Street | 2027 Summer Internship": {
     "type": "Summer Internship",
     "company": "Jane Street",
@@ -607,6 +600,13 @@
     "programme": "Machine Learning Research Intern - Summer 2027",
     "opening_date": "08 Jul 26",
     "link": "https://app.the-trackr.com/company/imc-trading"
+  },
+  "Bain & Company | AI Engineering, Intern": {
+    "type": "Summer Internship",
+    "company": "Bain & Company",
+    "programme": "AI Engineering, Intern",
+    "opening_date": "31 Aug 26",
+    "link": "https://app.the-trackr.com/company/bain-company"
   },
   "Castleton Commodities International | Data Science Machine Learning Internship (Summer 2027)": {
     "type": "Summer Internship",

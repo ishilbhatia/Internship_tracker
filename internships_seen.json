@@ -62,13 +62,6 @@
     "opening_date": "08 Oct 26",
     "link": "https://app.the-trackr.com/company/cirrus-logic"
   },
-  "Microsoft | Software Engineer Intern": {
-    "type": "Summer Internship",
-    "company": "Microsoft",
-    "programme": "Software Engineer Intern",
-    "opening_date": "07 Oct 26",
-    "link": "https://app.the-trackr.com/company/microsoft"
-  },
   "BAE Systems | 2027 Summer Internship\n2": {
     "type": "Summer Internship",
     "company": "BAE Systems",
@@ -467,6 +460,13 @@
     "programme": "Internship Programme 2027",
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
+  },
+  "Microsoft | Software Engineer Intern": {
+    "type": "Summer Internship",
+    "company": "Microsoft",
+    "programme": "Software Engineer Intern",
+    "opening_date": "07 Oct 26",
+    "link": "https://app.the-trackr.com/company/microsoft"
   },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",

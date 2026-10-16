@@ -97,13 +97,6 @@
     "opening_date": "07 Oct 26",
     "link": "https://app.the-trackr.com/company/sailpoint"
   },
-  "LCP | Energy Modelling & Technology Development - Summer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "LCP",
-    "programme": "Energy Modelling & Technology Development - Summer Internship 2027",
-    "opening_date": "05 Oct 26",
-    "link": "https://app.the-trackr.com/company/lcp"
-  },
   "Rolls-Royce | Engineering and Technology Summer Internship": {
     "type": "Summer Internship",
     "company": "Rolls-Royce",
@@ -488,6 +481,13 @@
     "programme": "Software Engineer Intern",
     "opening_date": "07 Oct 26",
     "link": "https://app.the-trackr.com/company/microsoft"
+  },
+  "LCP | Energy Modelling & Technology Development - Summer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "LCP",
+    "programme": "Energy Modelling & Technology Development - Summer Internship 2027",
+    "opening_date": "05 Oct 26",
+    "link": "https://app.the-trackr.com/company/lcp"
   },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",

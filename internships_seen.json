@@ -167,13 +167,6 @@
     "opening_date": "02 Oct 26",
     "link": "https://app.the-trackr.com/company/moody-s"
   },
-  "HSBC | 2027 Summer Internship\n3": {
-    "type": "Summer Internship",
-    "company": "HSBC",
-    "programme": "2027 Summer Internship\n3",
-    "opening_date": "01 Oct 26",
-    "link": "https://app.the-trackr.com/company/hsbc"
-  },
   "AMD | Summer 2027 Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "AMD",
@@ -496,6 +489,13 @@
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/lcp"
   },
+  "HSBC | 2027 Summer Internship\n3": {
+    "type": "Summer Internship",
+    "company": "HSBC",
+    "programme": "2027 Summer Internship\n3",
+    "opening_date": "01 Oct 26",
+    "link": "https://app.the-trackr.com/company/hsbc"
+  },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",
     "company": "Tradeweb",
@@ -790,19 +790,19 @@
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/tencent"
   },
-  "Zurich Insurance | Summer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "Zurich Insurance",
-    "programme": "Summer Internship 2027",
-    "opening_date": "09 Sep 26",
-    "link": "https://app.the-trackr.com/company/zurich-insurance"
-  },
   "Jefferies | 2027 Information Technology Summer Internship Programme": {
     "type": "Summer Internship",
     "company": "Jefferies",
     "programme": "2027 Information Technology Summer Internship Programme",
     "opening_date": "31 Aug 26",
     "link": "https://app.the-trackr.com/company/jefferies"
+  },
+  "Zurich Insurance | Summer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "Zurich Insurance",
+    "programme": "Summer Internship 2027",
+    "opening_date": "09 Sep 26",
+    "link": "https://app.the-trackr.com/company/zurich-insurance"
   },
   "Mizuho | 2027 IT Developer Summer Internship": {
     "type": "Summer Internship",

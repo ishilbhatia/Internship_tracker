@@ -1,11 +1,4 @@
 {
-  "EY | Discover EY (Technology) - 2027": {
-    "type": "Spring Week",
-    "company": "EY",
-    "programme": "Discover EY (Technology) - 2027",
-    "opening_date": "15 Oct 26",
-    "link": "https://app.the-trackr.com/company/ey"
-  },
   "Maven Securities | Women in Technology Spring Week 2027": {
     "type": "Spring Week",
     "company": "Maven Securities",
@@ -82,5 +75,12 @@
     "programme": "2027 Spring Insight Event",
     "opening_date": "30 Jun 26",
     "link": "https://app.the-trackr.com/company/blackrock"
+  },
+  "EY | Discover EY (Technology) - 2027": {
+    "type": "Spring Week",
+    "company": "EY",
+    "programme": "Discover EY (Technology) - 2027",
+    "opening_date": "15 Oct 26",
+    "link": "https://app.the-trackr.com/company/ey"
   }
 }

@@ -20,6 +20,13 @@
     "opening_date": "22 Sep 26",
     "link": "https://app.the-trackr.com/company/trackr"
   },
+  "Baker Hughes | Intern 2027\n2": {
+    "type": "Summer Internship",
+    "company": "Baker Hughes",
+    "programme": "Intern 2027\n2",
+    "opening_date": "21 Oct 26",
+    "link": "https://app.the-trackr.com/company/baker-hughes"
+  },
   "Redgate | Software Engineer Internship 2027": {
     "type": "Summer Internship",
     "company": "Redgate",
@@ -33,13 +40,6 @@
     "programme": "Summer Intern 2027\n3",
     "opening_date": "20 Oct 26",
     "link": "https://app.the-trackr.com/company/graphcore"
-  },
-  "Autodesk | Intern, Software Engineer": {
-    "type": "Summer Internship",
-    "company": "Autodesk",
-    "programme": "Intern, Software Engineer",
-    "opening_date": "19 Oct 26",
-    "link": "https://app.the-trackr.com/company/autodesk"
   },
   "Rothesay | 2027 Summer Internship Programme - Software Engineering": {
     "type": "Summer Internship",
@@ -510,6 +510,13 @@
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
   },
+  "Autodesk | Intern, Software Engineer": {
+    "type": "Summer Internship",
+    "company": "Autodesk",
+    "programme": "Intern, Software Engineer",
+    "opening_date": "19 Oct 26",
+    "link": "https://app.the-trackr.com/company/autodesk"
+  },
   "Microsoft | Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "Microsoft",
@@ -727,13 +734,6 @@
     "opening_date": "08 Sep 26",
     "link": "https://app.the-trackr.com/company/qube-rt"
   },
-  "Maven Securities | Software Developer Summer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "Maven Securities",
-    "programme": "Software Developer Summer Internship 2027",
-    "opening_date": "01 Sep 26",
-    "link": "https://app.the-trackr.com/company/maven-securities"
-  },
   "BlockTech | Software Engineer | Internship | Summer '27": {
     "type": "Summer Internship",
     "company": "BlockTech",
@@ -810,6 +810,13 @@
     "programme": "Software Developer - Intern",
     "opening_date": "02 Jul 26",
     "link": "https://app.the-trackr.com/company/gsa-capital"
+  },
+  "Maven Securities | Software Developer Summer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "Maven Securities",
+    "programme": "Software Developer Summer Internship 2027",
+    "opening_date": "01 Sep 26",
+    "link": "https://app.the-trackr.com/company/maven-securities"
   },
   "IMC Trading | Software Engineer Intern": {
     "type": "Summer Internship",

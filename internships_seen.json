@@ -265,13 +265,6 @@
     "opening_date": "28 Sep 26",
     "link": "https://app.the-trackr.com/company/natwest-markets"
   },
-  "Capital Group | Data & Tech Track Summer Associate 2027": {
-    "type": "Summer Internship",
-    "company": "Capital Group",
-    "programme": "Data & Tech Track Summer Associate 2027",
-    "opening_date": "25 Sep 26",
-    "link": "https://app.the-trackr.com/company/capital-group"
-  },
   "G-Research | Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "G-Research",
@@ -412,13 +405,6 @@
     "opening_date": "07 Sep 26",
     "link": "https://app.the-trackr.com/company/morgan-stanley"
   },
-  "Google | Software Engineering Intern, 2027": {
-    "type": "Summer Internship",
-    "company": "Google",
-    "programme": "Software Engineering Intern, 2027",
-    "opening_date": "07 Sep 26",
-    "link": "https://app.the-trackr.com/company/google"
-  },
   "Blackstone | 2027 Software Engineer Summer Analyst": {
     "type": "Summer Internship",
     "company": "Blackstone",
@@ -552,12 +538,26 @@
     "opening_date": "01 Oct 26",
     "link": "https://app.the-trackr.com/company/hsbc"
   },
+  "Capital Group | Data & Tech Track Summer Associate 2027": {
+    "type": "Summer Internship",
+    "company": "Capital Group",
+    "programme": "Data & Tech Track Summer Associate 2027",
+    "opening_date": "25 Sep 26",
+    "link": "https://app.the-trackr.com/company/capital-group"
+  },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",
     "company": "Tradeweb",
     "programme": "Summer 2027 Developer Internship",
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/tradeweb"
+  },
+  "Google | Software Engineering Intern, 2027": {
+    "type": "Summer Internship",
+    "company": "Google",
+    "programme": "Software Engineering Intern, 2027",
+    "opening_date": "07 Sep 26",
+    "link": "https://app.the-trackr.com/company/google"
   },
   "Bank of America | Summer 2027 Analyst\n3": {
     "type": "Summer Internship",

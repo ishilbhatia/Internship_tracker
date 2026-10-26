@@ -356,13 +356,6 @@
     "opening_date": "14 Sep 26",
     "link": "https://app.the-trackr.com/company/london-stock-exchange-group"
   },
-  "American Express | Internship Programme - 2027\n3": {
-    "type": "Summer Internship",
-    "company": "American Express",
-    "programme": "Internship Programme - 2027\n3",
-    "opening_date": "14 Sep 26",
-    "link": "https://app.the-trackr.com/company/american-express"
-  },
   "MBDA | Software Engineering - Summer Placement 2027": {
     "type": "Summer Internship",
     "company": "MBDA",
@@ -475,13 +468,6 @@
     "opening_date": "10 Aug 26",
     "link": "https://app.the-trackr.com/company/squarepoint-capital"
   },
-  "BTG Pactual | Summer Undergrad 2027": {
-    "type": "Summer Internship",
-    "company": "BTG Pactual",
-    "programme": "Summer Undergrad 2027",
-    "opening_date": "03 Aug 26",
-    "link": "https://app.the-trackr.com/company/btg-pactual"
-  },
   "Millennium Management | 2027 Technology Collaboration Intern": {
     "type": "Summer Internship",
     "company": "Millennium Management",
@@ -552,6 +538,13 @@
     "opening_date": "25 Sep 26",
     "link": "https://app.the-trackr.com/company/capital-group"
   },
+  "American Express | Internship Programme - 2027\n3": {
+    "type": "Summer Internship",
+    "company": "American Express",
+    "programme": "Internship Programme - 2027\n3",
+    "opening_date": "14 Sep 26",
+    "link": "https://app.the-trackr.com/company/american-express"
+  },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",
     "company": "Tradeweb",
@@ -600,6 +593,13 @@
     "programme": "Software Engineering Internship",
     "opening_date": "04 Aug 26",
     "link": "https://app.the-trackr.com/company/samsara"
+  },
+  "BTG Pactual | Summer Undergrad 2027": {
+    "type": "Summer Internship",
+    "company": "BTG Pactual",
+    "programme": "Summer Undergrad 2027",
+    "opening_date": "03 Aug 26",
+    "link": "https://app.the-trackr.com/company/btg-pactual"
   },
   "Ciena | Software Engineering Intern": {
     "type": "Summer Internship",

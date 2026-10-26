@@ -20,6 +20,13 @@
     "opening_date": "22 Sep 26",
     "link": "https://app.the-trackr.com/company/trackr"
   },
+  "Royal London | Summer Internship (Data & Tech)": {
+    "type": "Summer Internship",
+    "company": "Royal London",
+    "programme": "Summer Internship (Data & Tech)",
+    "opening_date": "26 Oct 26",
+    "link": "https://app.the-trackr.com/company/royal-london"
+  },
   "SAS | Software Developer - 2027 Summer Internship": {
     "type": "Summer Internship",
     "company": "SAS",
@@ -468,13 +475,6 @@
     "opening_date": "10 Aug 26",
     "link": "https://app.the-trackr.com/company/squarepoint-capital"
   },
-  "Millennium Management | 2027 Technology Collaboration Intern": {
-    "type": "Summer Internship",
-    "company": "Millennium Management",
-    "programme": "2027 Technology Collaboration Intern",
-    "opening_date": "01 Aug 26",
-    "link": "https://app.the-trackr.com/company/millennium-management"
-  },
   "Palantir | Software Engineer, Internship": {
     "type": "Summer Internship",
     "company": "Palantir",
@@ -601,6 +601,13 @@
     "opening_date": "03 Aug 26",
     "link": "https://app.the-trackr.com/company/btg-pactual"
   },
+  "Millennium Management | 2027 Technology Collaboration Intern": {
+    "type": "Summer Internship",
+    "company": "Millennium Management",
+    "programme": "2027 Technology Collaboration Intern",
+    "opening_date": "01 Aug 26",
+    "link": "https://app.the-trackr.com/company/millennium-management"
+  },
   "Ciena | Software Engineering Intern": {
     "type": "Summer Internship",
     "company": "Ciena",
@@ -621,13 +628,6 @@
     "programme": "2027 Summer Internship Program",
     "opening_date": "30 Jun 26",
     "link": "https://app.the-trackr.com/company/blackrock"
-  },
-  "Visa | Data Science Intern": {
-    "type": "Summer Internship",
-    "company": "Visa",
-    "programme": "Data Science Intern",
-    "opening_date": "19 Oct 26",
-    "link": "https://app.the-trackr.com/company/visa"
   },
   "Accenture | AI & Data 12 Week Summer Internship 2027": {
     "type": "Summer Internship",
@@ -684,6 +684,13 @@
     "programme": "Data Science Internship",
     "opening_date": "23 Jul 26",
     "link": "https://app.the-trackr.com/company/g-research"
+  },
+  "Visa | Data Science Intern": {
+    "type": "Summer Internship",
+    "company": "Visa",
+    "programme": "Data Science Intern",
+    "opening_date": "19 Oct 26",
+    "link": "https://app.the-trackr.com/company/visa"
   },
   "Quantbot Technologies | Data Trading Analyst Summer Internship - 2027": {
     "type": "Summer Internship",

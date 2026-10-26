@@ -97,13 +97,6 @@
     "opening_date": "18 Oct 26",
     "link": "https://app.the-trackr.com/company/leonardo"
   },
-  "BTIG | 2027 Summer Internship Program": {
-    "type": "Summer Internship",
-    "company": "BTIG",
-    "programme": "2027 Summer Internship Program",
-    "opening_date": "16 Oct 26",
-    "link": "https://app.the-trackr.com/company/btig"
-  },
   "PA Consulting | 2027 Summer Internship - Software & AI Systems": {
     "type": "Summer Internship",
     "company": "PA Consulting",
@@ -488,6 +481,13 @@
     "programme": "Intern, Software Engineer",
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/autodesk"
+  },
+  "BTIG | 2027 Summer Internship Program": {
+    "type": "Summer Internship",
+    "company": "BTIG",
+    "programme": "2027 Summer Internship Program",
+    "opening_date": "16 Oct 26",
+    "link": "https://app.the-trackr.com/company/btig"
   },
   "BAE Systems | 2027 Summer Internship\n2": {
     "type": "Summer Internship",

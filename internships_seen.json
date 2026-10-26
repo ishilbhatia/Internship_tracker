@@ -160,13 +160,6 @@
     "opening_date": "08 Oct 26",
     "link": "https://app.the-trackr.com/company/cirrus-logic"
   },
-  "BAE Systems | 2027 Summer Internship\n2": {
-    "type": "Summer Internship",
-    "company": "BAE Systems",
-    "programme": "2027 Summer Internship\n2",
-    "opening_date": "07 Oct 26",
-    "link": "https://app.the-trackr.com/company/bae-systems"
-  },
   "Sailpoint | Software Engineer Intern - Platform Engines": {
     "type": "Summer Internship",
     "company": "Sailpoint",
@@ -495,6 +488,13 @@
     "programme": "Intern, Software Engineer",
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/autodesk"
+  },
+  "BAE Systems | 2027 Summer Internship\n2": {
+    "type": "Summer Internship",
+    "company": "BAE Systems",
+    "programme": "2027 Summer Internship\n2",
+    "opening_date": "07 Oct 26",
+    "link": "https://app.the-trackr.com/company/bae-systems"
   },
   "LCP | Energy Modelling & Technology Development - Summer Internship 2027": {
     "type": "Summer Internship",

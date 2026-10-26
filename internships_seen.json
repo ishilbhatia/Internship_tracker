@@ -202,13 +202,6 @@
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/capstone"
   },
-  "Schonfeld | 2027 DMFI Quant Developer Intern": {
-    "type": "Summer Internship",
-    "company": "Schonfeld",
-    "programme": "2027 DMFI Quant Developer Intern",
-    "opening_date": "04 Oct 26",
-    "link": "https://app.the-trackr.com/company/schonfeld"
-  },
   "Alloyed | Software Engineering Summer Internship": {
     "type": "Summer Internship",
     "company": "Alloyed",
@@ -230,13 +223,6 @@
     "opening_date": "02 Oct 26",
     "link": "https://app.the-trackr.com/company/databricks"
   },
-  "Moody's | 2027 Software Engineering Summer Intern": {
-    "type": "Summer Internship",
-    "company": "Moody's",
-    "programme": "2027 Software Engineering Summer Intern",
-    "opening_date": "02 Oct 26",
-    "link": "https://app.the-trackr.com/company/moody-s"
-  },
   "AMD | Summer 2027 Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "AMD",
@@ -257,13 +243,6 @@
     "programme": "Software Engineering (Summer Internship)",
     "opening_date": "29 Sep 26",
     "link": "https://app.the-trackr.com/company/balyasny-asset-management"
-  },
-  "Verition Fund Management | 2027 Technology Internship": {
-    "type": "Summer Internship",
-    "company": "Verition Fund Management",
-    "programme": "2027 Technology Internship",
-    "opening_date": "29 Sep 26",
-    "link": "https://app.the-trackr.com/company/verition-fund-management"
   },
   "Monzo | Internship (Summer 2027)\n2": {
     "type": "Summer Internship",
@@ -524,12 +503,33 @@
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/lcp"
   },
+  "Schonfeld | 2027 DMFI Quant Developer Intern": {
+    "type": "Summer Internship",
+    "company": "Schonfeld",
+    "programme": "2027 DMFI Quant Developer Intern",
+    "opening_date": "04 Oct 26",
+    "link": "https://app.the-trackr.com/company/schonfeld"
+  },
+  "Moody's | 2027 Software Engineering Summer Intern": {
+    "type": "Summer Internship",
+    "company": "Moody's",
+    "programme": "2027 Software Engineering Summer Intern",
+    "opening_date": "02 Oct 26",
+    "link": "https://app.the-trackr.com/company/moody-s"
+  },
   "HSBC | 2027 Summer Internship\n3": {
     "type": "Summer Internship",
     "company": "HSBC",
     "programme": "2027 Summer Internship\n3",
     "opening_date": "01 Oct 26",
     "link": "https://app.the-trackr.com/company/hsbc"
+  },
+  "Verition Fund Management | 2027 Technology Internship": {
+    "type": "Summer Internship",
+    "company": "Verition Fund Management",
+    "programme": "2027 Technology Internship",
+    "opening_date": "29 Sep 26",
+    "link": "https://app.the-trackr.com/company/verition-fund-management"
   },
   "Capital Group | Data & Tech Track Summer Associate 2027": {
     "type": "Summer Internship",

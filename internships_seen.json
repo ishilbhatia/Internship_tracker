@@ -13,13 +13,6 @@
     "opening_date": "01 Jun 26",
     "link": "https://app.the-trackr.com/company/d-e-shaw"
   },
-  "Trackr | 2026 Software Engineering Intern (Part-Time)": {
-    "type": "Summer Internship",
-    "company": "Trackr",
-    "programme": "2026 Software Engineering Intern (Part-Time)",
-    "opening_date": "22 Sep 26",
-    "link": "https://app.the-trackr.com/company/trackr"
-  },
   "Amazon | 2027 Software Dev Engineer Intern\n2": {
     "type": "Summer Internship",
     "company": "Amazon",
@@ -530,6 +523,13 @@
     "programme": "Data & Tech Track Summer Associate 2027",
     "opening_date": "25 Sep 26",
     "link": "https://app.the-trackr.com/company/capital-group"
+  },
+  "Trackr | 2026 Software Engineering Intern (Part-Time)": {
+    "type": "Summer Internship",
+    "company": "Trackr",
+    "programme": "2026 Software Engineering Intern (Part-Time)",
+    "opening_date": "22 Sep 26",
+    "link": "https://app.the-trackr.com/company/trackr"
   },
   "Man Group | 2027 Summer Technology Internship Programme": {
     "type": "Summer Internship",

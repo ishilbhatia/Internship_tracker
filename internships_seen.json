@@ -335,13 +335,6 @@
     "opening_date": "11 Sep 26",
     "link": "https://app.the-trackr.com/company/rbc-capital-markets"
   },
-  "Barclays | Technology Summer Internship Programme 2027": {
-    "type": "Summer Internship",
-    "company": "Barclays",
-    "programme": "Technology Summer Internship Programme 2027",
-    "opening_date": "09 Sep 26",
-    "link": "https://app.the-trackr.com/company/barclays"
-  },
   "Anduril | 2027 Software Engineer Intern": {
     "type": "Summer Internship",
     "company": "Anduril",
@@ -544,6 +537,13 @@
     "programme": "Internship Programme - 2027\n3",
     "opening_date": "14 Sep 26",
     "link": "https://app.the-trackr.com/company/american-express"
+  },
+  "Barclays | Technology Summer Internship Programme 2027": {
+    "type": "Summer Internship",
+    "company": "Barclays",
+    "programme": "Technology Summer Internship Programme 2027",
+    "opening_date": "09 Sep 26",
+    "link": "https://app.the-trackr.com/company/barclays"
   },
   "Tradeweb | Summer 2027 Developer Internship": {
     "type": "Summer Internship",

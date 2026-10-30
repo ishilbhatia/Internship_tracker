@@ -48,13 +48,6 @@
     "opening_date": "28 Oct 26",
     "link": "https://app.the-trackr.com/company/cloudflare"
   },
-  "Nvidia | Software Engineering Intern, AI Agents and Backend Infrastructure": {
-    "type": "Summer Internship",
-    "company": "Nvidia",
-    "programme": "Software Engineering Intern, AI Agents and Backend Infrastructure",
-    "opening_date": "28 Oct 26",
-    "link": "https://app.the-trackr.com/company/nvidia"
-  },
   "Amazon | 2027 Software Dev Engineer Intern\n2": {
     "type": "Summer Internship",
     "company": "Amazon",
@@ -488,6 +481,13 @@
     "programme": "Internship Programme 2027",
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
+  },
+  "Nvidia | Software Engineering Intern, AI Agents and Backend Infrastructure": {
+    "type": "Summer Internship",
+    "company": "Nvidia",
+    "programme": "Software Engineering Intern, AI Agents and Backend Infrastructure",
+    "opening_date": "28 Oct 26",
+    "link": "https://app.the-trackr.com/company/nvidia"
   },
   "Autodesk | Intern, Software Engineer": {
     "type": "Summer Internship",

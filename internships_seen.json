@@ -90,13 +90,6 @@
     "opening_date": "21 Oct 26",
     "link": "https://app.the-trackr.com/company/baker-hughes"
   },
-  "Microsoft | 2027 Summer Intern\n2": {
-    "type": "Summer Internship",
-    "company": "Microsoft",
-    "programme": "2027 Summer Intern\n2",
-    "opening_date": "20 Oct 26",
-    "link": "https://app.the-trackr.com/company/microsoft"
-  },
   "Redgate | Software Engineer Internship 2027": {
     "type": "Summer Internship",
     "company": "Redgate",
@@ -335,13 +328,6 @@
     "opening_date": "14 Sep 26",
     "link": "https://app.the-trackr.com/company/baillie-gifford"
   },
-  "London Stock Exchange Group | Engineering Summer Internship Programme": {
-    "type": "Summer Internship",
-    "company": "London Stock Exchange Group",
-    "programme": "Engineering Summer Internship Programme",
-    "opening_date": "14 Sep 26",
-    "link": "https://app.the-trackr.com/company/london-stock-exchange-group"
-  },
   "MBDA | Software Engineering - Summer Placement 2027": {
     "type": "Summer Internship",
     "company": "MBDA",
@@ -383,13 +369,6 @@
     "programme": "2027 Technology Summer Analyst Program",
     "opening_date": "07 Sep 26",
     "link": "https://app.the-trackr.com/company/morgan-stanley"
-  },
-  "Blackstone | 2027 Software Engineer Summer Analyst": {
-    "type": "Summer Internship",
-    "company": "Blackstone",
-    "programme": "2027 Software Engineer Summer Analyst",
-    "opening_date": "07 Sep 26",
-    "link": "https://app.the-trackr.com/company/blackstone"
   },
   "Apple | Software Engineer Intern": {
     "type": "Summer Internship",
@@ -489,6 +468,13 @@
     "opening_date": "28 Oct 26",
     "link": "https://app.the-trackr.com/company/nvidia"
   },
+  "Microsoft | 2027 Summer Intern\n2": {
+    "type": "Summer Internship",
+    "company": "Microsoft",
+    "programme": "2027 Summer Intern\n2",
+    "opening_date": "20 Oct 26",
+    "link": "https://app.the-trackr.com/company/microsoft"
+  },
   "Autodesk | Intern, Software Engineer": {
     "type": "Summer Internship",
     "company": "Autodesk",
@@ -566,6 +552,13 @@
     "opening_date": "17 Sep 26",
     "link": "https://app.the-trackr.com/company/man-group"
   },
+  "London Stock Exchange Group | Engineering Summer Internship Programme": {
+    "type": "Summer Internship",
+    "company": "London Stock Exchange Group",
+    "programme": "Engineering Summer Internship Programme",
+    "opening_date": "14 Sep 26",
+    "link": "https://app.the-trackr.com/company/london-stock-exchange-group"
+  },
   "American Express | Internship Programme - 2027\n3": {
     "type": "Summer Internship",
     "company": "American Express",
@@ -593,6 +586,13 @@
     "programme": "Software Engineering Intern, 2027",
     "opening_date": "07 Sep 26",
     "link": "https://app.the-trackr.com/company/google"
+  },
+  "Blackstone | 2027 Software Engineer Summer Analyst": {
+    "type": "Summer Internship",
+    "company": "Blackstone",
+    "programme": "2027 Software Engineer Summer Analyst",
+    "opening_date": "07 Sep 26",
+    "link": "https://app.the-trackr.com/company/blackstone"
   },
   "Bank of America | Summer 2027 Analyst\n3": {
     "type": "Summer Internship",

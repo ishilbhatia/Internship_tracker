@@ -216,13 +216,6 @@
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/capstone"
   },
-  "Alloyed | Software Engineering Summer Internship": {
-    "type": "Summer Internship",
-    "company": "Alloyed",
-    "programme": "Software Engineering Summer Internship",
-    "opening_date": "02 Oct 26",
-    "link": "https://app.the-trackr.com/company/alloyed"
-  },
   "Clearwater Analytics | Software Development Intern": {
     "type": "Summer Internship",
     "company": "Clearwater Analytics",
@@ -377,13 +370,6 @@
     "opening_date": "01 Sep 26",
     "link": "https://app.the-trackr.com/company/apple"
   },
-  "J.P. Morgan | 2027 Summer Internship\n2": {
-    "type": "Summer Internship",
-    "company": "J.P. Morgan",
-    "programme": "2027 Summer Internship\n2",
-    "opening_date": "31 Aug 26",
-    "link": "https://app.the-trackr.com/company/j-p-morgan"
-  },
   "PIMCO | 2027 Summer Intern - Software Engineering": {
     "type": "Summer Internship",
     "company": "PIMCO",
@@ -510,6 +496,13 @@
     "opening_date": "04 Oct 26",
     "link": "https://app.the-trackr.com/company/schonfeld"
   },
+  "Alloyed | Software Engineering Summer Internship": {
+    "type": "Summer Internship",
+    "company": "Alloyed",
+    "programme": "Software Engineering Summer Internship",
+    "opening_date": "02 Oct 26",
+    "link": "https://app.the-trackr.com/company/alloyed"
+  },
   "Moody's | 2027 Software Engineering Summer Intern": {
     "type": "Summer Internship",
     "company": "Moody's",
@@ -600,6 +593,13 @@
     "programme": "Summer 2027 Analyst\n3",
     "opening_date": "02 Sep 26",
     "link": "https://app.the-trackr.com/company/bank-of-america"
+  },
+  "J.P. Morgan | 2027 Summer Internship\n2": {
+    "type": "Summer Internship",
+    "company": "J.P. Morgan",
+    "programme": "2027 Summer Internship\n2",
+    "opening_date": "31 Aug 26",
+    "link": "https://app.the-trackr.com/company/j-p-morgan"
   },
   "Capital One | Technology Summer Internship": {
     "type": "Summer Internship",

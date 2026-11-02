@@ -27,26 +27,12 @@
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/citadel"
   },
-  "J.P. Morgan | 2027 Spring Insights: Engineer & Innovate": {
-    "type": "Spring Week",
-    "company": "J.P. Morgan",
-    "programme": "2027 Spring Insights: Engineer & Innovate",
-    "opening_date": "01 Oct 26",
-    "link": "https://app.the-trackr.com/company/j-p-morgan"
-  },
   "Susquehanna International Group | Discovery Programme: Quantitative Strategy Development": {
     "type": "Spring Week",
     "company": "Susquehanna International Group",
     "programme": "Discovery Programme: Quantitative Strategy Development",
     "opening_date": "01 Oct 26",
     "link": "https://app.the-trackr.com/company/susquehanna-international-group"
-  },
-  "J.P. Morgan | 2027 Software Engineer Immersion Program - Summer Internship": {
-    "type": "Spring Week",
-    "company": "J.P. Morgan",
-    "programme": "2027 Software Engineer Immersion Program - Summer Internship",
-    "opening_date": "09 Sep 26",
-    "link": "https://app.the-trackr.com/company/j-p-morgan"
   },
   "Bending Spoons | Spring Week 2027": {
     "type": "Spring Week",
@@ -75,5 +61,19 @@
     "programme": "Discover EY (Technology) - 2027",
     "opening_date": "15 Oct 26",
     "link": "https://app.the-trackr.com/company/ey"
+  },
+  "J.P. Morgan | 2027 Spring Insights: Engineer & Innovate": {
+    "type": "Spring Week",
+    "company": "J.P. Morgan",
+    "programme": "2027 Spring Insights: Engineer & Innovate",
+    "opening_date": "01 Oct 26",
+    "link": "https://app.the-trackr.com/company/j-p-morgan"
+  },
+  "J.P. Morgan | 2027 Software Engineer Immersion Program - Summer Internship": {
+    "type": "Spring Week",
+    "company": "J.P. Morgan",
+    "programme": "2027 Software Engineer Immersion Program - Summer Internship",
+    "opening_date": "09 Sep 26",
+    "link": "https://app.the-trackr.com/company/j-p-morgan"
   }
 }

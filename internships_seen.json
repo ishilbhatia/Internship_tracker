@@ -188,13 +188,6 @@
     "opening_date": "09 Oct 26",
     "link": "https://app.the-trackr.com/company/ncr-atleos"
   },
-  "Riverlane | Software Engineering Internship 2027": {
-    "type": "Summer Internship",
-    "company": "Riverlane",
-    "programme": "Software Engineering Internship 2027",
-    "opening_date": "09 Oct 26",
-    "link": "https://app.the-trackr.com/company/riverlane"
-  },
   "WTW | 2027 Software Developer Internship": {
     "type": "Summer Internship",
     "company": "WTW",
@@ -502,6 +495,13 @@
     "programme": "2027 Summer Internship Program",
     "opening_date": "16 Oct 26",
     "link": "https://app.the-trackr.com/company/btig"
+  },
+  "Riverlane | Software Engineering Internship 2027": {
+    "type": "Summer Internship",
+    "company": "Riverlane",
+    "programme": "Software Engineering Internship 2027",
+    "opening_date": "09 Oct 26",
+    "link": "https://app.the-trackr.com/company/riverlane"
   },
   "BAE Systems | 2027 Summer Internship\n2": {
     "type": "Summer Internship",

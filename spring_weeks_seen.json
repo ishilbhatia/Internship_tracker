@@ -62,13 +62,6 @@
     "opening_date": "25 Aug 26",
     "link": "https://app.the-trackr.com/company/bending-spoons"
   },
-  "Jane Street | FOCUS / FTTP": {
-    "type": "Spring Week",
-    "company": "Jane Street",
-    "programme": "FOCUS / FTTP",
-    "opening_date": "21 Aug 26",
-    "link": "https://app.the-trackr.com/company/jane-street"
-  },
   "BlackRock | 2027 Spring Insight Event": {
     "type": "Spring Week",
     "company": "BlackRock",
@@ -96,5 +89,12 @@
     "programme": "2027 Software Engineer Immersion Program - Summer Internship",
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/j-p-morgan"
+  },
+  "Jane Street | FOCUS / FTTP": {
+    "type": "Spring Week",
+    "company": "Jane Street",
+    "programme": "FOCUS / FTTP",
+    "opening_date": "21 Aug 26",
+    "link": "https://app.the-trackr.com/company/jane-street"
   }
 }

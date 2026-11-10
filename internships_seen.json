@@ -55,27 +55,6 @@
     "opening_date": "04 Nov 26",
     "link": "https://app.the-trackr.com/company/wells-fargo"
   },
-  "Allegro MicroSystems | 3 Months Summer Placement - Internship": {
-    "type": "Summer Internship",
-    "company": "Allegro MicroSystems",
-    "programme": "3 Months Summer Placement - Internship",
-    "opening_date": "30 Oct 26",
-    "link": "https://app.the-trackr.com/company/allegro-microsystems"
-  },
-  "OLIX | Software Engineering Intern": {
-    "type": "Summer Internship",
-    "company": "OLIX",
-    "programme": "Software Engineering Intern",
-    "opening_date": "30 Oct 26",
-    "link": "https://app.the-trackr.com/company/olix"
-  },
-  "PTC | Software Engineering Summer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "PTC",
-    "programme": "Software Engineering Summer Internship 2027",
-    "opening_date": "30 Oct 26",
-    "link": "https://app.the-trackr.com/company/ptc"
-  },
   "Balyasny Asset Management | Summer Internship\n2": {
     "type": "Summer Internship",
     "company": "Balyasny Asset Management",
@@ -125,13 +104,6 @@
     "opening_date": "21 Oct 26",
     "link": "https://app.the-trackr.com/company/baker-hughes"
   },
-  "Redgate | Software Engineer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "Redgate",
-    "programme": "Software Engineer Internship 2027",
-    "opening_date": "20 Oct 26",
-    "link": "https://app.the-trackr.com/company/redgate"
-  },
   "Graphcore | Summer Intern 2027\n3": {
     "type": "Summer Internship",
     "company": "Graphcore",
@@ -145,13 +117,6 @@
     "programme": "2027 Summer Internship Programme - Software Engineering",
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/rothesay"
-  },
-  "Wise | Software Engineering Intern": {
-    "type": "Summer Internship",
-    "company": "Wise",
-    "programme": "Software Engineering Intern",
-    "opening_date": "19 Oct 26",
-    "link": "https://app.the-trackr.com/company/wise"
   },
   "Leonardo | Summer Placement Software Engineer": {
     "type": "Summer Internship",
@@ -251,13 +216,6 @@
     "opening_date": "02 Oct 26",
     "link": "https://app.the-trackr.com/company/databricks"
   },
-  "AMD | Summer 2027 Software Engineer Intern": {
-    "type": "Summer Internship",
-    "company": "AMD",
-    "programme": "Summer 2027 Software Engineer Intern",
-    "opening_date": "30 Sep 26",
-    "link": "https://app.the-trackr.com/company/amd"
-  },
   "PwC | Summer Internship - Technology and AI": {
     "type": "Summer Internship",
     "company": "PwC",
@@ -292,13 +250,6 @@
     "programme": "2027 Technology Internship\n2",
     "opening_date": "22 Sep 26",
     "link": "https://app.the-trackr.com/company/tesco"
-  },
-  "Cogna | Software Engineer Intern (2027 Cohort)": {
-    "type": "Summer Internship",
-    "company": "Cogna",
-    "programme": "Software Engineer Intern (2027 Cohort)",
-    "opening_date": "18 Sep 26",
-    "link": "https://app.the-trackr.com/company/cogna"
   },
   "MathWorks | Software Development Internship": {
     "type": "Summer Internship",
@@ -377,20 +328,6 @@
     "opening_date": "07 Sep 26",
     "link": "https://app.the-trackr.com/company/morgan-stanley"
   },
-  "Apple | Software Engineer Intern": {
-    "type": "Summer Internship",
-    "company": "Apple",
-    "programme": "Software Engineer Intern",
-    "opening_date": "01 Sep 26",
-    "link": "https://app.the-trackr.com/company/apple"
-  },
-  "PIMCO | 2027 Summer Intern - Software Engineering": {
-    "type": "Summer Internship",
-    "company": "PIMCO",
-    "programme": "2027 Summer Intern - Software Engineering",
-    "opening_date": "31 Aug 26",
-    "link": "https://app.the-trackr.com/company/pimco"
-  },
   "Stripe | Software Engineer, Intern": {
     "type": "Summer Internship",
     "company": "Stripe",
@@ -461,6 +398,27 @@
     "opening_date": "29 May 26",
     "link": "https://app.the-trackr.com/company/revolut"
   },
+  "Allegro MicroSystems | 3 Months Summer Placement - Internship": {
+    "type": "Summer Internship",
+    "company": "Allegro MicroSystems",
+    "programme": "3 Months Summer Placement - Internship",
+    "opening_date": "30 Oct 26",
+    "link": "https://app.the-trackr.com/company/allegro-microsystems"
+  },
+  "OLIX | Software Engineering Intern": {
+    "type": "Summer Internship",
+    "company": "OLIX",
+    "programme": "Software Engineering Intern",
+    "opening_date": "30 Oct 26",
+    "link": "https://app.the-trackr.com/company/olix"
+  },
+  "PTC | Software Engineering Summer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "PTC",
+    "programme": "Software Engineering Summer Internship 2027",
+    "opening_date": "30 Oct 26",
+    "link": "https://app.the-trackr.com/company/ptc"
+  },
   "Nvidia | Software Engineering Intern, AI Agents and Backend Infrastructure": {
     "type": "Summer Internship",
     "company": "Nvidia",
@@ -482,12 +440,26 @@
     "opening_date": "20 Oct 26",
     "link": "https://app.the-trackr.com/company/microsoft"
   },
+  "Redgate | Software Engineer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "Redgate",
+    "programme": "Software Engineer Internship 2027",
+    "opening_date": "20 Oct 26",
+    "link": "https://app.the-trackr.com/company/redgate"
+  },
   "Autodesk | Intern, Software Engineer": {
     "type": "Summer Internship",
     "company": "Autodesk",
     "programme": "Intern, Software Engineer",
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/autodesk"
+  },
+  "Wise | Software Engineering Intern": {
+    "type": "Summer Internship",
+    "company": "Wise",
+    "programme": "Software Engineering Intern",
+    "opening_date": "19 Oct 26",
+    "link": "https://app.the-trackr.com/company/wise"
   },
   "BTIG | 2027 Summer Internship Program": {
     "type": "Summer Internship",
@@ -552,6 +524,13 @@
     "opening_date": "01 Oct 26",
     "link": "https://app.the-trackr.com/company/hsbc"
   },
+  "AMD | Summer 2027 Software Engineer Intern": {
+    "type": "Summer Internship",
+    "company": "AMD",
+    "programme": "Summer 2027 Software Engineer Intern",
+    "opening_date": "30 Sep 26",
+    "link": "https://app.the-trackr.com/company/amd"
+  },
   "Verition Fund Management | 2027 Technology Internship": {
     "type": "Summer Internship",
     "company": "Verition Fund Management",
@@ -572,6 +551,13 @@
     "programme": "2026 Software Engineering Intern (Part-Time)",
     "opening_date": "22 Sep 26",
     "link": "https://app.the-trackr.com/company/trackr"
+  },
+  "Cogna | Software Engineer Intern (2027 Cohort)": {
+    "type": "Summer Internship",
+    "company": "Cogna",
+    "programme": "Software Engineer Intern (2027 Cohort)",
+    "opening_date": "18 Sep 26",
+    "link": "https://app.the-trackr.com/company/cogna"
   },
   "Man Group | 2027 Summer Technology Internship Programme": {
     "type": "Summer Internship",
@@ -636,12 +622,26 @@
     "opening_date": "02 Sep 26",
     "link": "https://app.the-trackr.com/company/bank-of-america"
   },
+  "Apple | Software Engineer Intern": {
+    "type": "Summer Internship",
+    "company": "Apple",
+    "programme": "Software Engineer Intern",
+    "opening_date": "01 Sep 26",
+    "link": "https://app.the-trackr.com/company/apple"
+  },
   "J.P. Morgan | 2027 Summer Internship\n2": {
     "type": "Summer Internship",
     "company": "J.P. Morgan",
     "programme": "2027 Summer Internship\n2",
     "opening_date": "31 Aug 26",
     "link": "https://app.the-trackr.com/company/j-p-morgan"
+  },
+  "PIMCO | 2027 Summer Intern - Software Engineering": {
+    "type": "Summer Internship",
+    "company": "PIMCO",
+    "programme": "2027 Summer Intern - Software Engineering",
+    "opening_date": "31 Aug 26",
+    "link": "https://app.the-trackr.com/company/pimco"
   },
   "Capital One | Technology Summer Internship": {
     "type": "Summer Internship",

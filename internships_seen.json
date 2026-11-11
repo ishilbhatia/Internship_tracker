@@ -713,26 +713,12 @@
     "opening_date": "09 Nov 26",
     "link": "https://app.the-trackr.com/company/ibm"
   },
-  "Accenture | AI & Data 12 Week Summer Internship 2027": {
-    "type": "Summer Internship",
-    "company": "Accenture",
-    "programme": "AI & Data 12 Week Summer Internship 2027",
-    "opening_date": "19 Oct 26",
-    "link": "https://app.the-trackr.com/company/accenture"
-  },
   "EY | Summer Internship 2027\n4": {
     "type": "Summer Internship",
     "company": "EY",
     "programme": "Summer Internship 2027\n4",
     "opening_date": "15 Oct 26",
     "link": "https://app.the-trackr.com/company/ey"
-  },
-  "bp | Summer Internship - Digital - Data, AI & Engineering": {
-    "type": "Summer Internship",
-    "company": "bp",
-    "programme": "Summer Internship - Digital - Data, AI & Engineering",
-    "opening_date": "14 Oct 26",
-    "link": "https://app.the-trackr.com/company/bp"
   },
   "TikTok | Data Analyst Intern - 2027 Start": {
     "type": "Summer Internship",
@@ -762,6 +748,13 @@
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/visa"
   },
+  "Accenture | AI & Data 12 Week Summer Internship 2027": {
+    "type": "Summer Internship",
+    "company": "Accenture",
+    "programme": "AI & Data 12 Week Summer Internship 2027",
+    "opening_date": "19 Oct 26",
+    "link": "https://app.the-trackr.com/company/accenture"
+  },
   "Wise | Data Science Intern": {
     "type": "Summer Internship",
     "company": "Wise",
@@ -775,6 +768,13 @@
     "programme": "Decision Analytics Associate Intern 2027",
     "opening_date": "19 Oct 26",
     "link": "https://app.the-trackr.com/company/zs"
+  },
+  "bp | Summer Internship - Digital - Data, AI & Engineering": {
+    "type": "Summer Internship",
+    "company": "bp",
+    "programme": "Summer Internship - Digital - Data, AI & Engineering",
+    "opening_date": "14 Oct 26",
+    "link": "https://app.the-trackr.com/company/bp"
   },
   "Quantbot Technologies | Data Trading Analyst Summer Internship - 2027": {
     "type": "Summer Internship",

@@ -223,13 +223,6 @@
     "opening_date": "30 Sep 26",
     "link": "https://app.the-trackr.com/company/pwc"
   },
-  "Monzo | Internship (Summer 2027)\n2": {
-    "type": "Summer Internship",
-    "company": "Monzo",
-    "programme": "Internship (Summer 2027)\n2",
-    "opening_date": "28 Sep 26",
-    "link": "https://app.the-trackr.com/company/monzo"
-  },
   "NatWest Markets | 2027 Summer Internship\n2": {
     "type": "Summer Internship",
     "company": "NatWest Markets",
@@ -537,6 +530,13 @@
     "programme": "2027 Technology Internship",
     "opening_date": "29 Sep 26",
     "link": "https://app.the-trackr.com/company/verition-fund-management"
+  },
+  "Monzo | Internship (Summer 2027)\n2": {
+    "type": "Summer Internship",
+    "company": "Monzo",
+    "programme": "Internship (Summer 2027)\n2",
+    "opening_date": "28 Sep 26",
+    "link": "https://app.the-trackr.com/company/monzo"
   },
   "Capital Group | Data & Tech Track Summer Associate 2027": {
     "type": "Summer Internship",

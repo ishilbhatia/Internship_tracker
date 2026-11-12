@@ -13,6 +13,13 @@
     "opening_date": "01 Jun 26",
     "link": "https://app.the-trackr.com/company/d-e-shaw"
   },
+  "Visa | Summer Intern\n2": {
+    "type": "Summer Internship",
+    "company": "Visa",
+    "programme": "Summer Intern\n2",
+    "opening_date": "12 Nov 26",
+    "link": "https://app.the-trackr.com/company/visa"
+  },
   "M&G | Technology Internship": {
     "type": "Summer Internship",
     "company": "M&G",
@@ -761,13 +768,6 @@
     "programme": "Data Science Internship",
     "opening_date": "23 Jul 26",
     "link": "https://app.the-trackr.com/company/g-research"
-  },
-  "Visa | Data Science Intern": {
-    "type": "Summer Internship",
-    "company": "Visa",
-    "programme": "Data Science Intern",
-    "opening_date": "19 Oct 26",
-    "link": "https://app.the-trackr.com/company/visa"
   },
   "Accenture | AI & Data 12 Week Summer Internship 2027": {
     "type": "Summer Internship",

@@ -216,13 +216,6 @@
     "opening_date": "07 Oct 26",
     "link": "https://app.the-trackr.com/company/sailpoint"
   },
-  "Rolls-Royce | Engineering and Technology Summer Internship": {
-    "type": "Summer Internship",
-    "company": "Rolls-Royce",
-    "programme": "Engineering and Technology Summer Internship",
-    "opening_date": "05 Oct 26",
-    "link": "https://app.the-trackr.com/company/rolls-royce"
-  },
   "Arondite | Software Engineer - Summer 2027 Intern": {
     "type": "Summer Internship",
     "company": "Arondite",
@@ -530,6 +523,13 @@
     "programme": "Energy Modelling & Technology Development - Summer Internship 2027",
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/lcp"
+  },
+  "Rolls-Royce | Engineering and Technology Summer Internship": {
+    "type": "Summer Internship",
+    "company": "Rolls-Royce",
+    "programme": "Engineering and Technology Summer Internship",
+    "opening_date": "05 Oct 26",
+    "link": "https://app.the-trackr.com/company/rolls-royce"
   },
   "Schonfeld | 2027 DMFI Quant Developer Intern": {
     "type": "Summer Internship",

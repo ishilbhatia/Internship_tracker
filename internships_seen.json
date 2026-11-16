@@ -188,13 +188,6 @@
     "opening_date": "09 Oct 26",
     "link": "https://app.the-trackr.com/company/ncr-atleos"
   },
-  "WTW | 2027 Software Developer Internship": {
-    "type": "Summer Internship",
-    "company": "WTW",
-    "programme": "2027 Software Developer Internship",
-    "opening_date": "09 Oct 26",
-    "link": "https://app.the-trackr.com/company/willis-towers-watson"
-  },
   "MUFG | 2027 Summer Internship Programme: Markets Engineering": {
     "type": "Summer Internship",
     "company": "MUFG",
@@ -509,6 +502,13 @@
     "programme": "Software Engineering Internship 2027",
     "opening_date": "09 Oct 26",
     "link": "https://app.the-trackr.com/company/riverlane"
+  },
+  "WTW | 2027 Software Developer Internship": {
+    "type": "Summer Internship",
+    "company": "WTW",
+    "programme": "2027 Software Developer Internship",
+    "opening_date": "09 Oct 26",
+    "link": "https://app.the-trackr.com/company/willis-towers-watson"
   },
   "BAE Systems | 2027 Summer Internship\n2": {
     "type": "Summer Internship",
@@ -1035,13 +1035,6 @@
     "opening_date": "09 Sep 26",
     "link": "https://app.the-trackr.com/company/tencent"
   },
-  "Jefferies | 2027 Information Technology Summer Internship Programme": {
-    "type": "Summer Internship",
-    "company": "Jefferies",
-    "programme": "2027 Information Technology Summer Internship Programme",
-    "opening_date": "31 Aug 26",
-    "link": "https://app.the-trackr.com/company/jefferies"
-  },
   "Zurich Insurance | Summer Internship 2027": {
     "type": "Summer Internship",
     "company": "Zurich Insurance",
@@ -1055,5 +1048,12 @@
     "programme": "2027 IT Developer Summer Internship",
     "opening_date": "07 Sep 26",
     "link": "https://app.the-trackr.com/company/mizuho"
+  },
+  "Jefferies | 2027 Information Technology Summer Internship Programme": {
+    "type": "Summer Internship",
+    "company": "Jefferies",
+    "programme": "2027 Information Technology Summer Internship Programme",
+    "opening_date": "31 Aug 26",
+    "link": "https://app.the-trackr.com/company/jefferies"
   }
 }

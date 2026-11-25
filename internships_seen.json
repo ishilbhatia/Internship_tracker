@@ -251,20 +251,6 @@
     "opening_date": "08 Oct 26",
     "link": "https://app.the-trackr.com/company/cirrus-logic"
   },
-  "Sailpoint | Software Engineer Intern - Platform Engines": {
-    "type": "Summer Internship",
-    "company": "Sailpoint",
-    "programme": "Software Engineer Intern - Platform Engines",
-    "opening_date": "07 Oct 26",
-    "link": "https://app.the-trackr.com/company/sailpoint"
-  },
-  "Arondite | Software Engineer - Summer 2027 Intern": {
-    "type": "Summer Internship",
-    "company": "Arondite",
-    "programme": "Software Engineer - Summer 2027 Intern",
-    "opening_date": "05 Oct 26",
-    "link": "https://app.the-trackr.com/company/arondite"
-  },
   "Cambridge Associates | Summer Internship (2027 start)\n3": {
     "type": "Summer Internship",
     "company": "Cambridge Associates",
@@ -566,6 +552,13 @@
     "opening_date": "07 Oct 26",
     "link": "https://app.the-trackr.com/company/bae-systems"
   },
+  "Sailpoint | Software Engineer Intern - Platform Engines": {
+    "type": "Summer Internship",
+    "company": "Sailpoint",
+    "programme": "Software Engineer Intern - Platform Engines",
+    "opening_date": "07 Oct 26",
+    "link": "https://app.the-trackr.com/company/sailpoint"
+  },
   "LCP | Energy Modelling & Technology Development - Summer Internship 2027": {
     "type": "Summer Internship",
     "company": "LCP",
@@ -579,6 +572,13 @@
     "programme": "Engineering and Technology Summer Internship",
     "opening_date": "05 Oct 26",
     "link": "https://app.the-trackr.com/company/rolls-royce"
+  },
+  "Arondite | Software Engineer - Summer 2027 Intern": {
+    "type": "Summer Internship",
+    "company": "Arondite",
+    "programme": "Software Engineer - Summer 2027 Intern",
+    "opening_date": "05 Oct 26",
+    "link": "https://app.the-trackr.com/company/arondite"
   },
   "Schonfeld | 2027 DMFI Quant Developer Intern": {
     "type": "Summer Internship",

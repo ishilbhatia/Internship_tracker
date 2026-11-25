@@ -1056,13 +1056,6 @@
     "opening_date": "26 Oct 26",
     "link": "https://app.the-trackr.com/company/fti-consulting"
   },
-  "Crowdstrike | Intelligence Intern - Summer 2027": {
-    "type": "Summer Internship",
-    "company": "Crowdstrike",
-    "programme": "Intelligence Intern - Summer 2027",
-    "opening_date": "12 Nov 26",
-    "link": "https://app.the-trackr.com/company/crowdstrike"
-  },
   "National Grid | Cyber Security Summer Internship": {
     "type": "Summer Internship",
     "company": "National Grid",
@@ -1083,6 +1076,13 @@
     "programme": "2027 Internship - Security Engineering",
     "opening_date": "08 Sep 26",
     "link": "https://app.the-trackr.com/company/qube-rt"
+  },
+  "Crowdstrike | Intelligence Intern - Summer 2027": {
+    "type": "Summer Internship",
+    "company": "Crowdstrike",
+    "programme": "Intelligence Intern - Summer 2027",
+    "opening_date": "12 Nov 26",
+    "link": "https://app.the-trackr.com/company/crowdstrike"
   },
   "Johnson Matthey | Cyber Security Summer 2027 Intern": {
     "type": "Summer Internship",

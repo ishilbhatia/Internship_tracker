@@ -293,13 +293,6 @@
     "opening_date": "02 Oct 26",
     "link": "https://app.the-trackr.com/company/databricks"
   },
-  "PwC | Summer Internship - Technology and AI": {
-    "type": "Summer Internship",
-    "company": "PwC",
-    "programme": "Summer Internship - Technology and AI",
-    "opening_date": "30 Sep 26",
-    "link": "https://app.the-trackr.com/company/pwc"
-  },
   "NatWest Markets | 2027 Summer Internship\n2": {
     "type": "Summer Internship",
     "company": "NatWest Markets",
@@ -313,13 +306,6 @@
     "programme": "Software Engineer Intern",
     "opening_date": "23 Sep 26",
     "link": "https://app.the-trackr.com/company/g-research"
-  },
-  "Tesco | 2027 Technology Internship\n2": {
-    "type": "Summer Internship",
-    "company": "Tesco",
-    "programme": "2027 Technology Internship\n2",
-    "opening_date": "22 Sep 26",
-    "link": "https://app.the-trackr.com/company/tesco"
   },
   "MathWorks | Software Development Internship": {
     "type": "Summer Internship",
@@ -629,6 +615,13 @@
     "opening_date": "30 Sep 26",
     "link": "https://app.the-trackr.com/company/amd"
   },
+  "PwC | Summer Internship - Technology and AI": {
+    "type": "Summer Internship",
+    "company": "PwC",
+    "programme": "Summer Internship - Technology and AI",
+    "opening_date": "30 Sep 26",
+    "link": "https://app.the-trackr.com/company/pwc"
+  },
   "Verition Fund Management | 2027 Technology Internship": {
     "type": "Summer Internship",
     "company": "Verition Fund Management",
@@ -649,6 +642,13 @@
     "programme": "Data & Tech Track Summer Associate 2027",
     "opening_date": "25 Sep 26",
     "link": "https://app.the-trackr.com/company/capital-group"
+  },
+  "Tesco | 2027 Technology Internship\n2": {
+    "type": "Summer Internship",
+    "company": "Tesco",
+    "programme": "2027 Technology Internship\n2",
+    "opening_date": "22 Sep 26",
+    "link": "https://app.the-trackr.com/company/tesco"
   },
   "Trackr | 2026 Software Engineering Intern (Part-Time)": {
     "type": "Summer Internship",
@@ -881,13 +881,6 @@
     "opening_date": "21 Jul 26",
     "link": "https://app.the-trackr.com/company/castleton-commodities-international"
   },
-  "Baringa | Summer Internship 2027 - Solutions AI LAB": {
-    "type": "Summer Internship",
-    "company": "Baringa",
-    "programme": "Summer Internship 2027 - Solutions AI LAB",
-    "opening_date": "05 Nov 26",
-    "link": "https://app.the-trackr.com/company/baringa"
-  },
   "Jane Street | 2027 Summer Internship": {
     "type": "Summer Internship",
     "company": "Jane Street",
@@ -908,6 +901,13 @@
     "programme": "Machine Learning Research Intern - Summer 2027",
     "opening_date": "08 Jul 26",
     "link": "https://app.the-trackr.com/company/imc-trading"
+  },
+  "Baringa | Summer Internship 2027 - Solutions AI LAB": {
+    "type": "Summer Internship",
+    "company": "Baringa",
+    "programme": "Summer Internship 2027 - Solutions AI LAB",
+    "opening_date": "05 Nov 26",
+    "link": "https://app.the-trackr.com/company/baringa"
   },
   "Ankura | Summer Internship 2027 Digital AI Advisory": {
     "type": "Summer Internship",
@@ -1063,13 +1063,6 @@
     "opening_date": "09 Nov 26",
     "link": "https://app.the-trackr.com/company/national-grid"
   },
-  "ICE | Summer Internship Program 2027": {
-    "type": "Summer Internship",
-    "company": "ICE",
-    "programme": "Summer Internship Program 2027",
-    "opening_date": "24 Oct 26",
-    "link": "https://app.the-trackr.com/company/ice"
-  },
   "Qube RT | 2027 Internship - Security Engineering": {
     "type": "Summer Internship",
     "company": "Qube RT",
@@ -1083,6 +1076,13 @@
     "programme": "Intelligence Intern - Summer 2027",
     "opening_date": "12 Nov 26",
     "link": "https://app.the-trackr.com/company/crowdstrike"
+  },
+  "ICE | Summer Internship Program 2027": {
+    "type": "Summer Internship",
+    "company": "ICE",
+    "programme": "Summer Internship Program 2027",
+    "opening_date": "24 Oct 26",
+    "link": "https://app.the-trackr.com/company/ice"
   },
   "Johnson Matthey | Cyber Security Summer 2027 Intern": {
     "type": "Summer Internship",
